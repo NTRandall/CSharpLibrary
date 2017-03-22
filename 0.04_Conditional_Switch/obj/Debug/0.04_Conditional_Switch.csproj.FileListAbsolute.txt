@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_Switch\bin\Debug\0.04_Conditional_Switch.exe.config
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_Switch\bin\Debug\0.04_Conditional_Switch.exe
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_Switch\bin\Debug\0.04_Conditional_Switch.pdb
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_Switch\obj\Debug\0.04_Conditional_Switch.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_Switch\obj\Debug\0.04_Conditional_Switch.exe
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.04_Conditional_Switch\obj\Debug\0.04_Conditional_Switch.pdb

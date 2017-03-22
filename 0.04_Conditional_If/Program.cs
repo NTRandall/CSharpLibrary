@@ -10,8 +10,8 @@ namespace _0._04_Conditional_If
     {
         static void Main(string[] args)
         {
-            bool isOn = true;
-            bool isHot = false;
+            //bool isOn = true;
+            //bool isHot = false;
 
             /*
              Comparison operators
@@ -55,12 +55,12 @@ namespace _0._04_Conditional_If
             {
                 Console.WriteLine("Go home noob!");
             }
-
-            Console.ReadLine();
+            {
+                Console.ReadLine();
+            }
 
         }
 
+    }
 
-
-
-}
+}                  
