@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.01_Intro\bin\Debug\0.01_Intro.exe.config
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.01_Intro\bin\Debug\0.01_Intro.exe
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.01_Intro\bin\Debug\0.01_Intro.pdb
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.01_Intro\obj\Debug\0.01_Intro.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.01_Intro\obj\Debug\0.01_Intro.exe
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.01_Intro\obj\Debug\0.01_Intro.pdb
