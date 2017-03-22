@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe.config
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.pdb
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.exe
+d:\documents\visual studio 2015\Projects\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.pdb
