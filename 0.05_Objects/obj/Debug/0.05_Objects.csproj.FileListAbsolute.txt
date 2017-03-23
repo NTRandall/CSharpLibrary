@@ -1,1 +1,6 @@
 d:\documents\visual studio 2015\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe.config
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.pdb
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.pdb

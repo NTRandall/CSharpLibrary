@@ -10,6 +10,20 @@ namespace _0._06_Methods
     {
         static void Main(string[] args)
         {
+            Customer theJSWizard = new Customer();
+            theJSWizard.AppearsWealthy = false;
+            theJSWizard.FirstName = "James";
+            theJSWizard.LastName = "Handshoe";
+
+            theJSWizard.PrintCustomerName();
+
+
+            Customer theSheriff = new Customer();
+            theJSWizard.FirstName = "Tom";
+            theJSWizard.LastName = "Jones";
+
+
         }
+
     }
 }

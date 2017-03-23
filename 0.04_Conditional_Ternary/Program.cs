@@ -22,6 +22,10 @@ namespace _0._04_Conditional_Ternary
 
             Console.WriteLine(num == 7 ? "Hey this is the number 7" : "This number isn't 7.");
             Console.ReadLine();
+
+            Console.WriteLine(" Enter your energy level 1-5");
+            int energy = Console.ReadLine();
+
         }
     }
 }

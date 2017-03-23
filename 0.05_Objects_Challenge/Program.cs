@@ -10,6 +10,7 @@ namespace _0._05_Objects_Challenge
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
