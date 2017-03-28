@@ -1,0 +1,6 @@
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10ForLoopsSampleProgram\bin\Debug\0.10ForLoopsSampleProgram.exe.config
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10ForLoopsSampleProgram\bin\Debug\0.10ForLoopsSampleProgram.exe
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10ForLoopsSampleProgram\bin\Debug\0.10ForLoopsSampleProgram.pdb
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10ForLoopsSampleProgram\obj\Debug\0.10ForLoopsSampleProgram.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10ForLoopsSampleProgram\obj\Debug\0.10ForLoopsSampleProgram.exe
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10ForLoopsSampleProgram\obj\Debug\0.10ForLoopsSampleProgram.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0._12_AccessModifiers\bin\Debug\0._12_AccessModifiers.exe.config
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0._12_AccessModifiers\bin\Debug\0._12_AccessModifiers.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0._12_AccessModifiers\bin\Debug\0._12_AccessModifiers.pdb
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0._12_AccessModifiers\obj\Debug\0.12_AccessModifiers.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0._12_AccessModifiers\obj\Debug\0._12_AccessModifiers.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0._12_AccessModifiers\obj\Debug\0._12_AccessModifiers.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.14_Mud_Knockoff\bin\Debug\0.14_Mud_Knockoff.exe.config
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.14_Mud_Knockoff\bin\Debug\0.14_Mud_Knockoff.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.14_Mud_Knockoff\bin\Debug\0.14_Mud_Knockoff.pdb
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.14_Mud_Knockoff\obj\Debug\0.14_Mud_Knockoff.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.14_Mud_Knockoff\obj\Debug\0.14_Mud_Knockoff.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.14_Mud_Knockoff\obj\Debug\0.14_Mud_Knockoff.pdb

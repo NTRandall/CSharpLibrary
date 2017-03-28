@@ -1,0 +1,3 @@
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.13_Mud_Knockoff\bin\Debug\0.13_Mud_Knockoff.exe.config
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.13_Mud_Knockoff\obj\Debug\0.13_Mud_Knockoff.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.13_Mud_Knockoff\obj\Debug\0.13_Mud_Knockoff.pdb

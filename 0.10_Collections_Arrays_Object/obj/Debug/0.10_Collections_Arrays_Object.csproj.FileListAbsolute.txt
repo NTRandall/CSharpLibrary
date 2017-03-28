@@ -1,0 +1,6 @@
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collections_Arrays_Object\bin\Debug\0.10_Collections_Arrays_Object.exe.config
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collections_Arrays_Object\bin\Debug\0.10_Collections_Arrays_Object.exe
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collections_Arrays_Object\bin\Debug\0.10_Collections_Arrays_Object.pdb
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collections_Arrays_Object\obj\Debug\0.10_Collections_Arrays_Object.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collections_Arrays_Object\obj\Debug\0.10_Collections_Arrays_Object.exe
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_Collections_Arrays_Object\obj\Debug\0.10_Collections_Arrays_Object.pdb

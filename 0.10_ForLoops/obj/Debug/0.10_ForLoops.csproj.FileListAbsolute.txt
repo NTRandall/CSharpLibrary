@@ -1,0 +1,6 @@
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_ForLoops\bin\Debug\0.10_ForLoops.exe.config
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_ForLoops\bin\Debug\0.10_ForLoops.exe
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_ForLoops\bin\Debug\0.10_ForLoops.pdb
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_ForLoops\obj\Debug\0.10_ForLoops.exe
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_ForLoops\obj\Debug\0.10_ForLoops.pdb
+d:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.10_ForLoops\obj\Debug\0.10_ForLoops.csprojResolveAssemblyReference.cache

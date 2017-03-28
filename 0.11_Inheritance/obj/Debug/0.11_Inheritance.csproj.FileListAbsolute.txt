@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.11_Inheritance\bin\Debug\0.11_Inheritance.exe.config
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.11_Inheritance\bin\Debug\0.11_Inheritance.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.11_Inheritance\bin\Debug\0.11_Inheritance.pdb
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.11_Inheritance\obj\Debug\0.11_Inheritance.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.11_Inheritance\obj\Debug\0.11_Inheritance.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.11_Inheritance\obj\Debug\0.11_Inheritance.pdb
