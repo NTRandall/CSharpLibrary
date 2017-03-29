@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,17 +17,57 @@ namespace _0._14_Mud_Knockoff
         TaxMan = 5
     }
     class Player
-    {
+   {
+
+        protected ArrayList insult = new ArrayList { "Die", "My cat fights better than you", "The JSWizard is more of a challenge than you", "Meow" };
+
+        protected Random rnd = new Random();
+        public string Name { get; set; }
+        public int PowerLevel { get; set; }
+
+
+        public virtual void Insult()
+        {
+
+            //// ArrayList insult = new ArrayList { "Did you get that TPS report?", "Don't be late for the meeting", "H.R. needs to see you", "Meow" };
+            // insult.Add("four-eyes");
+            // Random rnd = new Random();
+            int r = rnd.Next(0, insult.Count);
+            Console.WriteLine("{0}", insult[r]);
+        }
+
+
+        Dictionary<string, int> Attacks = new Dictionary<string, int>
+            {
+                {"Head-butt", 5 },
+                {"Sword Slash", 10 },
+                {"Cleave", 20 },
+                {"Trip", 12 },
+            };
+
+        public void Attack(LizardDog lizard, Dictionary<string, int> dict, object Playername)
+        {
+
+            var singleAttack = dict.ElementAt(rnd.Next(dict.Count));
+            int attackVal = singleAttack.Value;
+            string attackName = singleAttack.Key;
+
+            Console.WriteLine("{0} is attacking with {1} and deals {2}", PlayerName, attackName, attackVal);
+
+            Console.WriteLine("{0} health is at {1}%", lizard, lizard.PowerLevel);
+            lizard.PowerLevel -= attackVal; // player.CurrentHealth = player.CurrentHealth - 15
+
+        }
         public string PlayerName { get; set; }
         public string Clan { get; set; }
-        public int CurrentPower { get; set; }
+        public int CurrentHealth { get; set; }
         public CharacterType Type { get; set; }
 
         public Player(string name, string clanName, CharacterType type =CharacterType.Figter)
         {
             this.PlayerName = name;
             this.Clan = clanName;
-            this.CurrentPower = 100;
+            this.CurrentHealth = 100;
             this.Type = type;
         }
 
@@ -58,11 +99,14 @@ namespace _0._14_Mud_Knockoff
                     return this.Type = CharacterType.Figter;
             }
 
+
+
         }
         public void PowerLevelCheck()
         {
-            Console.WriteLine("{0}'s power level is at {1}", this.PlayerName, this.CurrentPower);
+            Console.WriteLine("{0}'s power level is at {1}", this.PlayerName, this.CurrentHealth);
         }
+     
 
         public void BattleCry()
         {
@@ -71,8 +115,12 @@ namespace _0._14_Mud_Knockoff
         
         public override string ToString()
         {
-            return $"Player Name: {this.PlayerName}\nClan Name: {this.Clan}\nPlayer Type: {this.Type}\nStarting Health: {this.CurrentPower}";
+            return $"Player Name: {this.PlayerName}\nClan Name: {this.Clan}\nPlayer Type: {this.Type}\nStarting Health: {this.CurrentHealth}";
         }
 
+        public void PlayerAttack(LizardDog lizard)
+        {
+            Attack(lizard, Attacks, this.PlayerName);
+        }
     }
 }
