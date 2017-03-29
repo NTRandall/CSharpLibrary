@@ -12,8 +12,8 @@ namespace _0._14_Mud_Knockoff
     {
         static void Main(string[] args)
         {
-            SpeechSynthesizer talkingConsole = new SpeechSynthesizer();
-            talkingConsole.Speak("Would you like to play a game?");
+            //SpeechSynthesizer talkingConsole = new SpeechSynthesizer();
+            //talkingConsole.Speak("Would you like to play a game?");
 
             Console.WriteLine("What is your Players Name?");
             string name = Console.ReadLine();
@@ -36,10 +36,12 @@ namespace _0._14_Mud_Knockoff
 
             LizardDog lizardDog = new LizardDog();
 
+            lizardDog.Insult();
+            Console.WriteLine("Kneel before Zod. Y/N");
+
             while (true)
             {
-                lizardDog.Insult();
-                Console.WriteLine("Kneel before Zod. Y/N");
+                
                 string userAnswer = Console.ReadLine();
                 if (userAnswer == "y")
                 {

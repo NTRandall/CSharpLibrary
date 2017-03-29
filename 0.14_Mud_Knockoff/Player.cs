@@ -44,7 +44,10 @@ namespace _0._14_Mud_Knockoff
                 {"Cleave", 20 },
                 {"Trip", 12 },
             };
-
+        public void PlayerAttack(LizardDog lizard)
+        {
+            Attack(lizard, Attacks, this.PlayerName);
+        }
         public void Attack(LizardDog lizard, Dictionary<string, int> dict, object Playername)
         {
 
@@ -99,7 +102,7 @@ namespace _0._14_Mud_Knockoff
                     return this.Type = CharacterType.Figter;
             }
 
-
+          
 
         }
         public void PowerLevelCheck()
@@ -118,9 +121,6 @@ namespace _0._14_Mud_Knockoff
             return $"Player Name: {this.PlayerName}\nClan Name: {this.Clan}\nPlayer Type: {this.Type}\nStarting Health: {this.CurrentHealth}";
         }
 
-        public void PlayerAttack(LizardDog lizard)
-        {
-            Attack(lizard, Attacks, this.PlayerName);
-        }
+       
     }
 }
