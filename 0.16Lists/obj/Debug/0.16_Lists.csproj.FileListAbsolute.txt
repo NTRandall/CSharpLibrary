@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.16Lists\bin\Debug\0.16Lists.exe.config
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.16Lists\bin\Debug\0.16Lists.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.16Lists\bin\Debug\0.16Lists.pdb
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.16Lists\obj\Debug\0.16_Lists.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.16Lists\obj\Debug\0.16Lists.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.16Lists\obj\Debug\0.16Lists.pdb

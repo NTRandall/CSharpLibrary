@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.17_LinQ\bin\Debug\0.17_LinQ.exe.config
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.17_LinQ\bin\Debug\0.17_LinQ.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.17_LinQ\bin\Debug\0.17_LinQ.pdb
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.17_LinQ\obj\Debug\0.17_LinQ.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.17_LinQ\obj\Debug\0.17_LinQ.exe
+D:\Documents\Visual Studio 2015\Projects\CSharpLibrary\0.17_LinQ\obj\Debug\0.17_LinQ.pdb
